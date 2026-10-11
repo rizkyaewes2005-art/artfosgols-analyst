@@ -7,3 +7,4 @@ window.ARTFOS_CONFIG = {
   supabaseAnonKey: 'sb_publishable_NMRZNJbRVW0q94p-nIjfoA_tVo9nZPt'
 };
 window.ARTFOS_CONFIG = window.ARTFOS_CONFIG || { supabaseUrl: '', supabaseAnonKey: '' };
+*/
