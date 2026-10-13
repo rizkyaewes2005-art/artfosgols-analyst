@@ -1,4 +1,4 @@
 window.ARTFOS_CONFIG = {
   supabaseUrl: 'https://fophtmfqjmvsfpwzfplu.supabase.co',
-  supabaseAnonKey: 'sb_publishable_NMRZNJbRVW0q94p-nIjfoA_tVo9nZPt'
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZvcGh0bWZxam12c2Zwd3pmcGx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE3MzU5NDksImV4cCI6MjEwNzMxMTk0OX0.M2CqCpORyqoepduUitiM3CZp0UqHtKOtMj5ozqH5pBc'
 };
